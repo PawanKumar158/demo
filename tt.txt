@@ -10,3 +10,23 @@ git diff branchName
 git merge branchName
 pull requst
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+remote to local 
+
+git pull origin main
+
+RESOLVING MERGE Conflicts
+
+Accept current chg | Accept incoming chg | Accept both change
