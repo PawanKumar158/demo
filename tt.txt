@@ -3,3 +3,10 @@ Basic workFlow
 github repo > clone > change > add > commit > push
 
 init > remote add origin main [link] (remote -v)>  
+
+Merging Code 
+
+git diff branchName
+git merge branchName
+pull requst
+
