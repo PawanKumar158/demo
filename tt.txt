@@ -2,6 +2,14 @@ Basic workFlow
 
 github repo > clone > change > add > commit > push
 
+init > remote add origin main [link] (remote -v)>
+
+BRANch 
+
+branch > branch -M (rename branch) > git checkout branchName > 
+
+create new branch > git checkout -b branchName
+delete old branch > git checkout -d branchName
 init > remote add origin main [link] (remote -v)>  
 
 Merging Code 
