@@ -19,18 +19,6 @@ git merge branchName
 pull requst
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 remote to local 
 
 git pull origin main
